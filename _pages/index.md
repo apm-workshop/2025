@@ -3,7 +3,7 @@ layout: home
 permalink: /
 ---
 
-Welcome to the website of the Seventh Workshop on Asynchronous Programming Models, which will be held on the 1st – 3rd October in Porto, Portugal, hosted by the University of Porto. Information about prior iterations can be found [here](https://abs-models.org/publications/).
+Welcome to the website of the 7th International Workshop on Asynchronous Programming Models (formerly ABS Workshop), which will be held on the 1st – 3rd October in Porto, Portugal, hosted by the University of Porto. Information about prior iterations can be found [here](https://abs-models.org/publications/).
 
 
 ## Description
@@ -17,7 +17,7 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 ## Venue
 {: .secondH}
 
-The workshop will be held at the University of Porto, located at the center of the beautiful city of Porto. More concrete details will be provided later.
+The workshop will be held at the University of Porto, located at the centre of the beautiful city of Porto. More concrete details will be provided later.
 
 
 ## Organizers
