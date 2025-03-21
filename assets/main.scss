@@ -28,10 +28,11 @@
   left: 1.1em;
   margin-bottom: -60pt;
   padding: 6pt 14pt;
-  background-color: color(srgb 0.0092 0.37 0.1935 / 0.65);
+  background-color: /* color(srgb 0.0092 0.37 0.1935 / 0.65); */
+    color(srgb 0.53 0.27 0 / 0.65);
   color: white;
   font-weight: bold;
-  font-size: 1.0em;
+  font-size: 1.3em;
   /* max-width: 43%; */
   width: fit-content;
   text-align: left;
