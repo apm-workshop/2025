@@ -34,10 +34,10 @@ If there are any inquiries or questions, feel free to contact the organizers:
 {: .secondH}
 
 {:style="text-align:center;"}
-[![DMAT logo]({{ site.baseurl }}{% link assets/dmat-logo.png %} "logo")](https://mat.ua.pt){:target="blank"}
-[![CIDMA logo]({{ site.baseurl }}{% link assets/cidma_logo.jpeg %} "logo")](https://cidma.ua.pt){:target="blank"}
-[![logo]({{ site.baseurl }}{% link assets/FCT_logo.png %} "logoSmall")](https://www.fct.pt/){:target="blank"}
-[![logo]({{ site.baseurl }}{% link assets/images/springer-logo-black-and-white.png %} "logoSmall")](){:target="blank"}
+[![DMAT logo]({{ site.baseurl }}{###% link assets/dmat-logo.png %} "logo")](https://mat.ua.pt){:target="blank"}
+[![CIDMA logo]({{ site.baseurl }}{###% link assets/cidma_logo.jpeg %} "logo")](https://cidma.ua.pt){:target="blank"}
+[![logo]({{ site.baseurl }}{###% link assets/FCT_logo.png %} "logoSmall")](https://www.fct.pt/){:target="blank"}
+[![logo]({{ site.baseurl }}{###% link assets/images/springer-logo-black-and-white.png %} "logoSmall")](){:target="blank"}
 
 {:class="thanks"}
 <small>This conference is supported by CIDMA through the Portuguese Foundation for Science and Technology (FCT), reference UIDB/04106/2020.
@@ -45,8 +45,8 @@ If there are any inquiries or questions, feel free to contact the organizers:
 
  --><!--
 ## Sponsors
-[![NWO logo]({{ site.baseurl }}{% link assets/nwo.jpg %})](https://nwo.nl/)
-[![EAPLS logo]({{ site.baseurl }}{% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
+[![NWO logo]({{ site.baseurl }}{###% link assets/nwo.jpg %})](https://nwo.nl/)
+[![EAPLS logo]({{ site.baseurl }}{###% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
  -->
  
 
