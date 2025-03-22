@@ -78,7 +78,9 @@
     bottom: 1.5em;
     right: 1.5em;
   }
-}
+  .hide-if-small {
+    display: none;
+  }}
 
 @include media-query($on-palm) {
   .page-content > p > img {

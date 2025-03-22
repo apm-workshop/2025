@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+hide: true
 ---
 
 Welcome to the website of the 7th International Workshop on Asynchronous Programming Models (formerly ABS Workshop), which will be held on the 1st – 3rd October in Porto, Portugal, hosted by the University of Porto. Information about prior iterations can be found [here](https://abs-models.org/publications/).
