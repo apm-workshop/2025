@@ -30,8 +30,9 @@ If there are any inquiries or questions, feel free to contact the organizers:
 
 <!-- General Organization: José Proença -->
 
+- Steering Committee: Einar Johnsen, Reiner Hähnle, and Ferruccio Damiani
 - Program Chairs: José Proença and Silvia Lizeth Tapia Tarifa
-- Local Organization: José Proença
+- Local Organization: José Proença and David Pereira
 
 ## Sponsors
 {: .secondH}
