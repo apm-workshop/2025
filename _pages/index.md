@@ -31,8 +31,16 @@ If there are any inquiries or questions, feel free to contact the organizers:
 - Program Chairs: José Proença and Silvia Lizeth Tapia Tarifa
 - Local Organization: José Proença
 
-<!-- ## Sponsors
+## Sponsors
 {: .secondH}
+
+{:style="text-align:center;"}
+[![FCUP logo]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
+[![Vortex logo]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
+
+
+
+<!--
 
 {:style="text-align:center;"}
 [![DMAT logo]({{ site.baseurl }}{###% link assets/dmat-logo.png %} "logo")](https://mat.ua.pt){:target="blank"}
@@ -44,10 +52,10 @@ If there are any inquiries or questions, feel free to contact the organizers:
 <small>This conference is supported by CIDMA through the Portuguese Foundation for Science and Technology (FCT), reference UIDB/04106/2020.
 </small>
 
- --><!--
+
 ## Sponsors
 [![NWO logo]({{ site.baseurl }}{###% link assets/nwo.jpg %})](https://nwo.nl/)
 [![EAPLS logo]({{ site.baseurl }}{###% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
- -->
- 
 
+ 
+-->
