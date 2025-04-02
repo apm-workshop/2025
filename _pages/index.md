@@ -15,10 +15,12 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 The APM workshop stands in the tradition of the ABS workshop, whose last iteration took place in Turin, Italy, but is not specific to any language or paradigm.
 
 
+<!--
 ## Venue
 {: .secondH}
 
 The workshop will be held at the University of Porto, located at the centre of the beautiful city of Porto. More concrete details will be provided later.
+ -->
 
 
 ## Organizers
