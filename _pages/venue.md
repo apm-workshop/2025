@@ -39,7 +39,7 @@ For further information, please contact one of the local organizers.
 <!-- General Organization: José Proença -->
 
 - [José Proença](https://jose.proenca.org)
-- [David Pereira[(https://pt.linkedin.com/in/dmrpereira)
+- [David Pereira](https://pt.linkedin.com/in/dmrpereira)
 
 
 
