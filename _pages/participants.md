@@ -7,9 +7,11 @@ published: true
 hide: true
 ---
 
+- Davide Sangiorgi
 - Einar Broch Johnsen
 - José Proença
 - Maurice ter Beek
+- Michele Loreti
 - Reiner Hähnle
 - Rudolf Schlatte
 - Silvia Lizeth Tapia Tarifa
