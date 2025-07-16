@@ -31,7 +31,7 @@ We recommend taking [metro line E](https://www.metrodoporto.pt/metrodoporto/uplo
 <!-- You can find the location of the airport, all relevant metro and bus stations, and the venue on the map below. In order to navigate around the city center, we recommend using your favorite GPS navigation app. -->
 
 ## Where to sleep
-{: .secondHSp}
+{: .secondHSp #hotels}
 
 There are many hotels around. We include a selection of possible hotels, all but one next to the Boavista roundabout (_rotunda_), which is easily accessed by metro. The list is sorted by preference and proximity to the venue, measured using walking time in minutes.
 
