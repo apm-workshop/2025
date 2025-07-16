@@ -33,7 +33,7 @@ We recommend taking [metro line E](https://www.metrodoporto.pt/metrodoporto/uplo
 ## Where to sleep
 {: .secondHSp}
 
-There are many hotels around. We include a selection of possible hotels, all but one next to the Boavista roundabout (_rotunda_), sorted by preference and proximity to the venue, measured as walking time in minutes.
+There are many hotels around. We include a selection of possible hotels, all but one next to the Boavista roundabout (_rotunda_), which is easily accessed by metro. The list is sorted by preference and proximity to the venue, measured using walking time in minutes.
 
  - HF Tuela Porto *** (14min, [booking](https://www.booking.com/hotel/pt/tuelaporto.en-gb.html?lang=en-gb))
  - HF Fénix Porto **** (14 min, [booking](https://www.booking.com/hotel/pt/fenixporto.pt-pt.html?lang=en-gb))
