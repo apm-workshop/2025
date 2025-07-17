@@ -33,17 +33,17 @@ We recommend taking [metro line E](https://www.metrodoporto.pt/metrodoporto/uplo
 ## Where to sleep
 {: .secondHSp #hotels}
 
-There are many hotels around. We include a selection of possible hotels, all but one next to the Boavista roundabout (_rotunda_), which is easily accessed by metro. The list is sorted by preference and proximity to the venue, measured using walking time in minutes.
+There are many hotels around. We include a selection of possible hotels. All except the HP Ipanema Park are next to each other, close to the Boavista roundabout (_rotunda_), which is easily accessed by metro. The list is sorted by preference and proximity to the venue, measured using walking time in minutes.
 
- - HF Tuela Porto `***` (14min, [booking](https://www.booking.com/hotel/pt/tuelaporto.en-gb.html?lang=en-gb){: target="_blank"})
- - HF Fénix Porto `****` (14 min, [booking](https://www.booking.com/hotel/pt/fenixporto.pt-pt.html?lang=en-gb){: target="_blank"})
- - HF Ipanema Porto `****` (14 min, [booking](https://www.booking.com/hotel/pt/ipanemaporto.pt-pt.html?lang=en-gb){: target="_blank"})
- - HF Ipanema Park `*****` (14 min, [booking](https://www.booking.com/hotel/pt/ipanemapark.pt-pt.html?lang=en-gb), opposite side from the Boavista roundabout)
- - Hotel da Música `****` (17 min, [booking](https://www.booking.com/hotel/pt/da-musica.pt-pt.html?lang=en-gb){: target="_blank"}))
- - Portfólio Guest House Premium `***` (17 min, [booking](https://www.booking.com/hotel/pt/guestready-premium-guesthouse-suites.pt-pt.html?lang=en-gb){: target="_blank"}))
- - Hotel Vice Rei Porto `**` (18 min, [booking](https://www.booking.com/hotel/pt/vice-rei-porto.pt-pt.html?lang=en-gb,){: target="_blank"}, good price-quality relation)
- - Hotel Douro `***` (18 min, [booking](https://www.booking.com/hotel/pt/douro.pt-pt.html?lang=en-gb){: target="_blank"})
- - ABC Hotel Porto - Boavista `****` (23 min, [booking](https://www.booking.com/hotel/pt/abc-porto-casa-da-musica.pt-pt.html?lang=en-gb){: target="_blank"})
+ - HF Tuela Porto (3⭐️, 14min, [booking](https://www.booking.com/hotel/pt/tuelaporto.en-gb.html?lang=en-gb){: target="_blank"})
+ - HF Fénix Porto (4⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/fenixporto.pt-pt.html?lang=en-gb){: target="_blank"})
+ - HF Ipanema Porto (4⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/ipanemaporto.pt-pt.html?lang=en-gb){: target="_blank"})
+ - HF Ipanema Park (5⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/ipanemapark.pt-pt.html?lang=en-gb), opposite side from the Boavista roundabout)
+ - Hotel da Música (4⭐️, 17 min, [booking](https://www.booking.com/hotel/pt/da-musica.pt-pt.html?lang=en-gb){: target="_blank"}))
+ - Portfólio Guest House Premium (3⭐️, 17 min, [booking](https://www.booking.com/hotel/pt/guestready-premium-guesthouse-suites.pt-pt.html?lang=en-gb){: target="_blank"}))
+ - Hotel Vice Rei Porto (2⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/vice-rei-porto.pt-pt.html?lang=en-gb,){: target="_blank"}, good price-quality relation)
+ - Hotel Douro (3⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/douro.pt-pt.html?lang=en-gb){: target="_blank"})
+ - ABC Hotel Porto - Boavista (4⭐️, 23 min, [booking](https://www.booking.com/hotel/pt/abc-porto-casa-da-musica.pt-pt.html?lang=en-gb){: target="_blank"})
 
 
 
