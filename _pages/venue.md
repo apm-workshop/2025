@@ -39,9 +39,10 @@ There are many hotels around. We include a selection of possible hotels. All exc
  - HF Fénix Porto (4⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/fenixporto.pt-pt.html?lang=en-gb){: target="_blank"})
  - HF Ipanema Porto (4⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/ipanemaporto.pt-pt.html?lang=en-gb){: target="_blank"})
  - HF Ipanema Park (5⭐️, 14 min, [booking](https://www.booking.com/hotel/pt/ipanemapark.pt-pt.html?lang=en-gb), opposite side from the Boavista roundabout)
+ - Hotel Vice Rei Porto (2⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/vice-rei-porto.pt-pt.html?lang=en-gb,){: target="_blank"}, good price-quality relation)
+ - Porto Concept Home - University Residence & Guesthouse (guest-house, 7 min, [booking](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.en-gb.html?lang=en-gb){: target="_blank"}, low price and simple)
  - Hotel da Música (4⭐️, 17 min, [booking](https://www.booking.com/hotel/pt/da-musica.pt-pt.html?lang=en-gb){: target="_blank"}))
  - Portfólio Guest House Premium (3⭐️, 17 min, [booking](https://www.booking.com/hotel/pt/guestready-premium-guesthouse-suites.pt-pt.html?lang=en-gb){: target="_blank"}))
- - Hotel Vice Rei Porto (2⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/vice-rei-porto.pt-pt.html?lang=en-gb,){: target="_blank"}, good price-quality relation)
  - Hotel Douro (3⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/douro.pt-pt.html?lang=en-gb){: target="_blank"})
  - ABC Hotel Porto - Boavista (4⭐️, 23 min, [booking](https://www.booking.com/hotel/pt/abc-porto-casa-da-musica.pt-pt.html?lang=en-gb){: target="_blank"})
 
