@@ -1,5 +1,4 @@
-<!-- 
----
+<!--  ---
 layout: page_plain
 title: Program
 permalink: /program/
