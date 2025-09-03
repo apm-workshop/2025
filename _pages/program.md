@@ -52,13 +52,12 @@ hide: false
 			<td colspan="3" style="text-align: center;"> <b> Coffee </b> </td>
 		</tr>
 		<tr>
-			<td></td>
+			<td rowspan="2"> <b> 10:30 - 12:00 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 		</tr>
 		<tr>
-			<td> <b> 10:30 - 12:00 </b> </td>
 			<td>TBD</td>
 			<td>TBD</td>
 			<td>TBD</td>
@@ -68,13 +67,12 @@ hide: false
 			<td colspan="3"> <b> Lunch </b> </td>
 		</tr>
 		<tr>
-			<td></td>
+			<td rowspan="2"> <b> 14:00 - 15:30 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 		</tr>
 		<tr>
-			<td> <b> 14:00 - 15:30 </b> </td>
 			<td>TBD</td>
 			<td>TBD</td>
 			<td>TBD</td>
@@ -85,13 +83,12 @@ hide: false
 			<td>-</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td rowspan="2" > <b> 16:00 - 17:30 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 			<td>-</td>
 		</tr>
 		<tr>
-			<td> <b> 16:00 - 17:30 </b> </td>
 			<td>TBD</td>
 			<td>TBD</td>
 			<td>-</td>
