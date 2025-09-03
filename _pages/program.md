@@ -7,6 +7,35 @@ published: true
 hide: true
 ---
 
+
+<head>
+<style>
+	table {
+		border:1px solid #b3adad;
+		border-collapse:collapse;
+		padding:5px;
+		}
+	table th {
+		border:1px solid #b3adad;
+		padding:5px;
+		background: #D3D3D3;
+		color: #313030;
+		width: 300px;
+		}
+	table td {
+		border:1px solid #b3adad;
+		text-align:center;
+		padding:5px;
+		background: #ffffff;
+		color: #313030;
+		}
+	table tr{
+		text-align: center;
+		}
+</style>
+</head>
+<body>
+
 <table style="border:2px solid black;">
 	<thead>
             	<tr>
@@ -22,7 +51,13 @@ hide: true
 	<body>
 		<tr>
 			<td>10:00 - 10:30</td>
-			<td colspan="3">Coffee</td>
+			<td colspan="3" style="text-align: center;">Coffee</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Chair: TBD</td>
+			<td>Chair: TBD</td>
+			<td>Chair: TBD</td>
 		</tr>
 		<tr>
 			<td>10:30 - 12:00</td>
@@ -33,6 +68,12 @@ hide: true
 		<tr>
 			<td>12:00 - 14:00</td>
 			<td colspan="3">Lunch</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Chair: TBD</td>
+			<td>Chair: TBD</td>
+			<td>Chair: TBD</td>
 		</tr>
 		<tr>
 			<td>14:00 - 15:30</td>
@@ -46,6 +87,12 @@ hide: true
 			<td>-</td>
 		</tr>
 		<tr>
+			<td></td>
+			<td>Chair: TBD</td>
+			<td>Chair: TBD</td>
+			<td>-</td>
+		</tr>
+		<tr>
 			<td>16:00 - 17:30</td>
 			<td>TBD</td>
 			<td>TBD</td>
@@ -53,7 +100,8 @@ hide: true
 		</tr>
 	</tbody>
 </table>
-
+</body>
+	
 ## Confirmed Talks
 
   __Frank de Boer__
