@@ -47,6 +47,7 @@ If there are any inquiries or questions, feel free to contact the organizers:
 [![FCUP logo]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
 [![UiO logo]({{ site.baseurl }}{% link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
 [![Vortex logo]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
+[![CISTER logo]({{ site.baseurl }}{% link assets/images/logo-cister.png %} "logoSmall")](https://www.cister-labs.pt/){:target="blank"}
 [![CGD logo]({{ site.baseurl }}{% link assets/images/logo-cgd.webp %} "logo")](https://www.cgd.pt/){:target="blank"}
 
 
