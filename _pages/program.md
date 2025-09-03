@@ -1,4 +1,4 @@
-## Overview of the Main Conference
+## Overview of Workshop
 
 
 <div class="col-sm-10">
