@@ -6,7 +6,7 @@ order: 8
 published: true
 ---
 
-<table style="border:2px solid black;text-align: center;">
+<table style="border:2px solid black;">
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
