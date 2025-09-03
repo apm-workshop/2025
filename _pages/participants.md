@@ -7,6 +7,7 @@ published: true
 hide: false
 ---
 
+  - Frank de Boer, CWI (NL)
   - Maurice ter Beek, Italian National Research Council (IT)
   - Ferruccio Damiani, University of Turin (IT)
   - Fynn Demmler, , TU Darmstadt (DE)
