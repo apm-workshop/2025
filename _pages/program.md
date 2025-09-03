@@ -1,11 +1,5 @@
-## Overview of Workshop
 
 
-<div class="col-sm-10">
-        <p> <br/> </p> 
-</div> 
-
-<body>
 <table style="border:2px solid black;text-align: center;" class="center-table;">
 	<thead>
             	<tr>
@@ -52,4 +46,3 @@
 		</tr>
 	</tbody>
 </table>
-</body> 
