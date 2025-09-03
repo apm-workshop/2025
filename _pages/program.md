@@ -1,10 +1,12 @@
----
+ <!-- 
+ ---
 layout: page_plain
 title: Program
 permalink: /program/
 order: 8
 published: true
 ---
+-->
 
 <table style="border:2px solid black;">
 	<thead>
