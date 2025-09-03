@@ -7,32 +7,30 @@ published: true
 hide: false
 ---
 
-  - Adele Veschetti
-  - Asmae Heydari Tabr
-  - Crystal Chang Din
-  - Daniel Drodt
-  - Davide Sangiorgi
-  - Einar Broch Johnsen
-  - Ferruccio Damiani
-  - Fynn Demmler
-  - Jorge Pérez
-  - José Proença
-  - Lizeth Tapia
-  - Luca Paolini
-  - Maurice ter Beek 
-  - Michael Lienhardt
-  - Reiner Hähnle
-  - Rudi Schlatte
-  - Violet Ka I Pun
-  - Volker Stolz
-
+  - Maurice ter Beek, Italian National Research Council (IT)
+  - Ferruccio Damiani, University of Turin (IT)
+  - Fynn Demmler, , TU Darmstadt (DE)
+  - Crystal Chang Din, University of Bergen (NO)
+  - Daniel Drodt, TU Darmstadt (DE)
+  - Reiner Hähnle, TU Darmstadt (DE)
+  - Einar Broch Johnsen, University of Oslo (NO)
+  - Michael Lienhardt, ONERA (FR)
+  - Luca Paolini, University of Turin (IT)
+  - Jorge Pérez, University of Groningen (NL)
+  - José Proença, University of Porto (PT)
+  - Violet Ka I Pun, Western Norway University of Applied Sciences (NO)
+  - Davide Sangiorgi, University of Bologna (IT)
+  - Rudi Schlatte, University of Oslo (NO)
+  - Volker Stolz, Western Norway University of Applied Sciences (NO)
+  - Asmae Heydari Tabar, Karlsruhe Institute of Technology (DE)
+  - S. Lizeth Tapia Tarifa, University of Oslo (NO)
+  - Adele Veschetti, TU Darmstadt (DE)
 
 <!-- 
-## Participants that are considering going
+## Participants who are considering going
 {: .secondHSp}
 
-- Asmae Heydari Tabar
-- Paola Giannini
+- Paola Giannini, University of Eastern Piedmont (IT)
 
  -->
 
