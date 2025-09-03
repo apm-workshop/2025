@@ -2,7 +2,7 @@
 layout: page_plain
 title: Venue
 permalink: /venue/
-order: 8
+order: 9
 published: true
 ---
 
