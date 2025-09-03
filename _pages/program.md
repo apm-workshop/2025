@@ -7,8 +7,6 @@ published: true
 hide: true
 ---
 
-
-<center>
 <table style="border:2px solid black;">
 	<thead>
             	<tr>
@@ -55,7 +53,6 @@ hide: true
 		</tr>
 	</tbody>
 </table>
-<center>
 
 # Confirmed Talks
 
