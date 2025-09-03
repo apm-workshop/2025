@@ -35,4 +35,10 @@ hide: false
 
  -->
 
+# Confirmed Talks
+
+  ### Frank de Boer
+  ##### Title: Deductive verification of actor programs
+   ##### Abstract: 
+   A contract- based Hoare logic for an actor-based programming language, using histories to describe the interaction between actors.
 
