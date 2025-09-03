@@ -80,18 +80,16 @@ hide: false
 		<tr>
 			<td> <b> 15:30 - 16:00 </b> </td>
    			<td colspan="2"> <b> Coffee Break </b> </td>
-			<td>-</td>
+			<td rowspan="3">-</td>
 		</tr>
 		<tr>
 			<td rowspan="2" > <b> 16:00 - 17:30 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
-			<td>-</td>
 		</tr>
 		<tr>
 			<td>TBD</td>
 			<td>TBD</td>
-			<td>-</td>
 		</tr>
 	</tbody>
 </table>
