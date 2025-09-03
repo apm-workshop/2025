@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page_plain
 title: Program
 permalink: /program/
 order: 8
