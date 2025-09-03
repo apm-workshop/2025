@@ -51,7 +51,7 @@ hide: true
 	<body>
 		<tr>
 			<td>10:00 - 10:30</td>
-			<td colspan="3" style="text-align: center;">Coffee</td>
+			<td colspan="3" style="text-align: center;"> <b> Coffee </b> </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -67,7 +67,7 @@ hide: true
 		</tr>
 		<tr>
 			<td>12:00 - 14:00</td>
-			<td colspan="3">Lunch</td>
+			<td colspan="3"> <b> Lunch </b> </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -83,7 +83,7 @@ hide: true
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-   			<td colspan="2">Coffee Break</td>
+   			<td colspan="2"> <b> Coffee Break </b> </td>
 			<td>-</td>
 		</tr>
 		<tr>
