@@ -7,7 +7,6 @@ published: true
 hide: true
 ---
 
-
 <head>
 <style>
 	table {
@@ -35,7 +34,6 @@ hide: true
 </style>
 </head>
 <body>
-
 <table style="border:2px solid black;">
 	<thead>
             	<tr>
@@ -48,7 +46,7 @@ hide: true
 			<th>Friday Oct. 03</th>
 		</tr>
 	</thead>
-	<body>
+	<tbody>
 		<tr>
 			<td> <b> 10:00 - 10:30 </b> </td>
 			<td colspan="3" style="text-align: center;"> <b> Coffee </b> </td>
