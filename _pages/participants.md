@@ -10,7 +10,7 @@ hide: false
   - Maurice ter Beek, Italian National Research Council (IT)
   - Frank de Boer, CWI (NL)
   - Ferruccio Damiani, University of Turin (IT)
-  - Fynn Demmler, , TU Darmstadt (DE)
+  - Fynn Demmler, TU Darmstadt (DE)
   - Crystal Chang Din, University of Bergen (NO)
   - Daniel Drodt, TU Darmstadt (DE)
   - Reiner Hähnle, TU Darmstadt (DE)
