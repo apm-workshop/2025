@@ -1,5 +1,5 @@
  <!-- 
- ---
+---
 layout: page_plain
 title: Program
 permalink: /program/
@@ -7,7 +7,7 @@ order: 8
 published: true
 ---
 -->
-
+<center>
 <table style="border:2px solid black;">
 	<thead>
             	<tr>
@@ -54,6 +54,7 @@ published: true
 		</tr>
 	</tbody>
 </table>
+<center>
 
 # Confirmed Talks
 
