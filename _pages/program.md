@@ -1,4 +1,10 @@
-
+---
+layout: page_plain
+title: Schedule
+permalink: /schedule/
+order: 8
+published: true
+---
 
 <table style="border:2px solid black;text-align: center;" class="center-table;">
 	<thead>
