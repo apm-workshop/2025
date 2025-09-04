@@ -7,25 +7,27 @@ published: true
 hide: false
 ---
 
-  - Maurice ter Beek, Italian National Research Council (IT)
-  - Frank de Boer, CWI (NL)
-  - Ferruccio Damiani, University of Turin (IT)
-  - Fynn Demmler, TU Darmstadt (DE)
-  - Crystal Chang Din, University of Bergen (NO)
-  - Daniel Drodt, TU Darmstadt (DE)
-  - Reiner Hähnle, TU Darmstadt (DE)
-  - Einar Broch Johnsen, University of Oslo (NO)
-  - Michael Lienhardt, ONERA (FR)
-  - Luca Paolini, University of Turin (IT)
-  - Jorge Pérez, University of Groningen (NL)
-  - José Proença, University of Porto (PT)
-  - Violet Ka I Pun, Western Norway University of Applied Sciences (NO)
-  - Davide Sangiorgi, University of Bologna (IT)
-  - Rudi Schlatte, University of Oslo (NO)
-  - Volker Stolz, Western Norway University of Applied Sciences (NO)
-  - Asmae Heydari Tabar, Karlsruhe Institute of Technology (DE)
-  - S. Lizeth Tapia Tarifa, University of Oslo (NO)
-  - Adele Veschetti, TU Darmstadt (DE)
+The list below includes everyone who showed interest in participating in APM.
+
+  - _Maurice ter Beek_, Italian National Research Council (IT)
+  - _Frank de Boer_, CWI (NL)
+  - _Ferruccio Damiani_, University of Turin (IT)
+  - _Fynn Demmler_, TU Darmstadt (DE)
+  - _Crystal Chang Din_, University of Bergen (NO)
+  - _Daniel Drodt_, TU Darmstadt (DE)
+  - _Reiner Hähnle_, TU Darmstadt (DE)
+  - _Einar Broch Johnsen_, University of Oslo (NO)
+  - _Michael Lienhardt_, ONERA (FR)
+  - _Luca Paolini_, University of Turin (IT)
+  - _Jorge Pérez_, University of Groningen (NL)
+  - _José Proença_, University of Porto (PT)
+  - _Violet Ka I Pun_, Western Norway University of Applied Sciences (NO)
+  - _Davide Sangiorgi_, University of Bologna (IT)
+  - _Rudi Schlatte_, University of Oslo (NO)
+  - _Volker Stolz_, Western Norway University of Applied Sciences (NO)
+  - _Asmae Heydari Tabar_, Karlsruhe Institute of Technology (DE)
+  - _S. Lizeth Tapia Tarifa_, University of Oslo (NO)
+  - _Adele Veschetti_, TU Darmstadt (DE)
 
 <!-- 
 ## Participants who are considering going

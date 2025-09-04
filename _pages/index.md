@@ -38,17 +38,18 @@ If there are any inquiries or questions, feel free to contact the organizers:
 
 - __Steering Committee:__ Einar Johnsen, Ferruccio Damiani, and Reiner Hähnle
 - __Program Chairs:__ José Proença and Silvia Lizeth Tapia Tarifa
-- __Local Organization:__  David Pereira and José Proença
+- __Local Organization:__  José Proença, João Barbosa, and David Pereira
+- __Wine Chair:__ Reiner Hähnle
 
 ## Sponsors
 {: .secondH}
 
 {:style="text-align:center;"}
-[![FCUP logo]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "logo")](https://fc.up.pt/){:target="blank"}
-[![UiO logo]({{ site.baseurl }}{% link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
-[![Vortex logo]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
-[![CISTER logo]({{ site.baseurl }}{% link assets/images/logo-cister.png %} "logoSmall")](https://www.cister-labs.pt/){:target="blank"}
-[![CGD logo]({{ site.baseurl }}{% link assets/images/logo-cgd.webp %} "logo")](https://www.cgd.pt/){:target="blank"}
+[![FCUP logo]({{ site.baseurl }}{% link assets/images/logo-fcup.png %} "Faculty of Sciences of the University of Porto")](https://fc.up.pt/){:target="blank"}
+[![UiO logo]({{ site.baseurl }}{% link assets/images/logo-uio.png %} "University of Oslo")](https://www.uio.no/english/){:target="blank"}
+[![Vortex logo]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "Vortex Co-lab")](https://www.vortex-colab.com/){:target="blank"}
+[![CISTER logo]({{ site.baseurl }}{% link assets/images/logo-cister.png %} "CISTER")](https://www.cister-labs.pt/){:target="blank"}
+[![CGD logo]({{ site.baseurl }}{% link assets/images/logo-cgd.webp %} "CGD")](https://www.cgd.pt/){:target="blank"}
 
 
 
