@@ -17,9 +17,21 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 ## Registration
 {: .secondH #registration}
 
-The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event. There will be no reviewing, but attendance is subject to approval by the organizers.
+<!-- The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event. -->
 
- - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5)
+The official registration is now open. To register please follow the link below.
+There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty.
+
+ <!-- - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5) -->
+
+- [Final Registration form](https://forms.gle/AQSoqceYgN14T6G46)
+
+The registration prices are listed below:
+
+ - Basic (includes 3 lunches, 110€)
+ - Standard (basic + a social dinner on Wednesday, 150€)
+ - Regular (basic + a  social event on Thursday evening, 180€)
+ - Full (standard + a social event on Thursday evening, 230€)
 
 <!--
 ## Venue
