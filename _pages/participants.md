@@ -18,6 +18,7 @@ The list below includes everyone who showed interest in participating in APM.
   - _Reiner Hähnle_, TU Darmstadt (DE)
   - _Einar Broch Johnsen_, University of Oslo (NO)
   - _Michael Lienhardt_, ONERA (FR)
+  - _Michele Loreti_, University of Camerino (IT)
   - _Luca Paolini_, University of Turin (IT)
   - _Jorge Pérez_, University of Groningen (NL)
   - _José Proença_, University of Porto (PT)
