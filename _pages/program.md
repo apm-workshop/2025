@@ -191,5 +191,14 @@ __Asmae Heydari Tabar__
   
 __Title:__ Title: Correctness-by-construction for ABS and verification of ABS programs, a full circle
 
+<br>
+
+__Silvia Lizeth Tapia Tarifa__
   
+__Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins
+
+ __Abstract:__
+ Digital twins are emerging as a valuable tool for short-term decision-making as well as for long-term strategic planning across numerous domains. 
+ This talk reports on our ongoing work on designing a digital twin to enhance resource planning in a hospital ward.
+ The proper handling of resources at a hospital is crucial to efficient operations. The dynamic allocation of resources is necessary to efficiently manage the workflow of patients and adjust it to avoid bottlenecks in operations, and to improve the prioritization and utilization of available resources.  By connecting simulation models to live data, a digital twin can have more accurate simulations that reflect the actual resource allocation problems of a hospital ward. Our proposed solution uses the executable formal model to turn a stream of arriving patients, who need to be hospitalized, into a stream of optimization problems, e.g., capturing daily inpatient ward needs, that can be solved by SMT techniques. The knowledge base, which formalizes domain knowledge, is used to model the needed configuration in the digital twin, allowing the twin to support both short-term decision-making and long-term strategic planning by generating scenarios spanning average-case, worst-case resource needs, what-if scenarios and ward reconfiguration, depending on the expected flow of patients, as well as ranging over variations in available resources, e.g., bed distribution in different rooms, opening/closing of temporary rooms, etc. We illustrate our digital twin architecture by considering the problem of bed bay allocation in a hospital ward. 
   
