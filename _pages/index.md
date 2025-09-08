@@ -19,7 +19,7 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 
 <!-- The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event. -->
 
-The official registration is now open. To register please follow the link below.
+The official registration is now open. To register please follow the link below __until 18th Sep__. If you have any problem, please contact jose.proenca@fc.up.pt.
 There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty.
 
  <!-- - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5) -->
