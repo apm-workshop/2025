@@ -149,7 +149,17 @@ This requires identifying which data should be communicated between which solver
 An important difficulty is that the exchange frequency may change at runtime, depending on the complexity of the physical phenomena at play.
 In this talk, we illustrate the difficulties related to such an orchestration and present a generic approach to express such an orchestration.
 
-  <br>
+<br>
+
+__Michele Loreti__
+
+__Title:__ A gentle introduction to YODA and its tools
+
+  __Abstract:__
+Modern software solutions are composed of many interacting entities, each with its own properties. These entities, called agents, operate without centralised control to reach local and global goals. To model and reason about these systems, tools are needed to specify not only the behaviour of entities, but also the environment where they operate.
+In this talk, the language  YODA (Yet anOther agent Description lAnguage) is presented together with the tools that can be used to forecast emerging behaviour and to verify expected properties.
+
+<br>
   
   __Jorge Pérez__
   
