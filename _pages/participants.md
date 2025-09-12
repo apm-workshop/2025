@@ -25,6 +25,7 @@ The list below includes everyone who showed interest in participating in APM.
   - _Violet Ka I Pun_, Western Norway University of Applied Sciences (NO)
   - _Davide Sangiorgi_, University of Bologna (IT)
   - _Rudi Schlatte_, University of Oslo (NO)
+  - _Riccardo Sieve_, University of Oslo (NO)
   - _Volker Stolz_, Western Norway University of Applied Sciences (NO)
   - _Asmae Heydari Tabar_, Karlsruhe Institute of Technology (DE)
   - _S. Lizeth Tapia Tarifa_, University of Oslo (NO)
