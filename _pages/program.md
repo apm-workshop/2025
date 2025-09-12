@@ -102,17 +102,20 @@ hide: false
  
   __Frank de Boer__
   
-  __Title:__ Deductive verification of actor programs
+  __Title:__ Contract-based proof system for actors
   
    __Abstract:__ 
-   A contract-based Hoare logic for an actor-based programming language, using histories to describe the interaction between actors.
+   sI will present a contract-based proof system for actors. 
+Asynchronous method calls are specified and verified in terms of the contracts of the called methods.  The interaction between actors is specified and verified using histories which consist of 3 kinds of events, which indicate a method call,  a method selection, and a method
+return, respectively. Apart from a contract, a specification of a class consists of a local class 
+invariant. We illustrate the proof system by a parametric  specification and verification of an actor-based encoding of the good old dining philosophers."
 
  <br>
  
   __Ferruccio Damiani__
   
   __Title:__ A Language for Resilient Distributed Systems
-  
+  ,,
   __Abstract:__
   Choreographies and multitier programming are effective paradigms for simplifying the development of distributed systems by promoting modular, declarative designs while ensuring correctness properties. However, existing approaches often struggle with resilience to message loss and flexibility under dynamic and heterogeneous network topologies---critical challenges in real-world distributed systems.
 
@@ -186,14 +189,8 @@ __Title:__ ABS status update
   Recent developments and status of the ABS toolchain
 
   <br>
-  
-__Asmae Heydari Tabar__
-  
-__Title:__ Title: Correctness-by-construction for ABS and verification of ABS programs, a full circle
 
-<br>
-
-__Silvia Lizeth Tapia Tarifa__
+  __Riccardo Sieve__
   
 __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins
 
@@ -201,4 +198,14 @@ __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digita
  Digital twins are emerging as a valuable tool for short-term decision-making as well as for long-term strategic planning across numerous domains. 
  This talk reports on our ongoing work on designing a digital twin to enhance resource planning in a hospital ward.
  The proper handling of resources at a hospital is crucial to efficient operations. The dynamic allocation of resources is necessary to efficiently manage the workflow of patients and adjust it to avoid bottlenecks in operations, and to improve the prioritization and utilization of available resources.  By connecting simulation models to live data, a digital twin can have more accurate simulations that reflect the actual resource allocation problems of a hospital ward. Our proposed solution uses the executable formal model to turn a stream of arriving patients, who need to be hospitalized, into a stream of optimization problems, e.g., capturing daily inpatient ward needs, that can be solved by SMT techniques. The knowledge base, which formalizes domain knowledge, is used to model the needed configuration in the digital twin, allowing the twin to support both short-term decision-making and long-term strategic planning by generating scenarios spanning average-case, worst-case resource needs, what-if scenarios and ward reconfiguration, depending on the expected flow of patients, as well as ranging over variations in available resources, e.g., bed distribution in different rooms, opening/closing of temporary rooms, etc. We illustrate our digital twin architecture by considering the problem of bed bay allocation in a hospital ward. 
+
+<br>
+
+__Asmae Heydari Tabar__
+  
+__Title:__ Title: Correctness-by-construction for ABS and verification of ABS programs, a full circle
+
+
+
+
   
