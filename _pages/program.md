@@ -108,7 +108,7 @@ hide: false
    sI will present a contract-based proof system for actors. 
 Asynchronous method calls are specified and verified in terms of the contracts of the called methods.  The interaction between actors is specified and verified using histories which consist of 3 kinds of events, which indicate a method call,  a method selection, and a method
 return, respectively. Apart from a contract, a specification of a class consists of a local class 
-invariant. We illustrate the proof system by a parametric  specification and verification of an actor-based encoding of the good old dining philosophers."
+invariant. We illustrate the proof system by a parametric  specification and verification of an actor-based encoding of the good old dining philosophers.
 
  <br>
  
@@ -166,12 +166,10 @@ In this talk, the language  YODA (Yet anOther agent Description lAnguage) is pre
   
   __Jorge Pérez__
   
-  __Title:__ Asynchronous Communication and Deadlock Freedom
+  __Title:__ Asynchronous Session-based Concurrency: Deadlock Freedom by Typing
   
  __Abstract:__
-  While formal models of concurrency tend to focus on synchronous communication, asynchronous communication is relevant in practice. 
-I am interested in asynchronous communication in the context of session-based concurrency, the model of computation in which session types specify the structure of the two-party protocols implemented by the channels of a communicating process. 
-I intend to give an overview of recent work on addressing the challenge of ensuring the deadlock-freedom property for message-passing processes that communicate asynchronously in cyclic process networks governed by session types. 
+In this talk, I will discuss asynchronous communication in the context of session-based concurrency, the model of computation in which session types specify the structure of the two-party protocols implemented by the channels of a communicating process. I will overview recent work on addressing the challenge of ensuring the deadlock-freedom property for message-passing processes that communicate asynchronously in cyclic process networks governed by session types. I will offer a gradual presentation of three typed process frameworks and outline how they may be used to guarantee deadlock freedom for a concurrent functional language with sessions.
 
   <br>
   
