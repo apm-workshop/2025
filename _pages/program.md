@@ -115,11 +115,11 @@ invariant. We illustrate the proof system by a parametric  specification and ver
   __Ferruccio Damiani__
   
   __Title:__ A Language for Resilient Distributed Systems
-  ,,
+  
   __Abstract:__
   Choreographies and multitier programming are effective paradigms for simplifying the development of distributed systems by promoting modular, declarative designs while ensuring correctness properties. However, existing approaches often struggle with resilience to message loss and flexibility under dynamic and heterogeneous network topologies---critical challenges in real-world distributed systems.
 
-In this talk, I introduce the Placed eXchange Calculus ( PXC ), a novel (yet unpublished) variant of the eXchange Calculus (XC ) aggregate programming framework, integrating placed data types from multitier programming. PXC combines the strengths of these frameworks, offering expressive and statically verifiable models for distributed computation while addressing resilience to unreliable networks and adapting to dynamic topologies. By leveraging placed data types, PXC supports heterogeneous devices with diverse capabilities, enabling fine-tuned optimizations and static checks of communication correctness across varying deployment environments.
+In this talk, I introduce the Placed eXchange Calculus (PXC), a novel (yet unpublished) variant of the eXchange Calculus (XC ) aggregate programming framework, integrating placed data types from multitier programming. PXC combines the strengths of these frameworks, offering expressive and statically verifiable models for distributed computation while addressing resilience to unreliable networks and adapting to dynamic topologies. By leveraging placed data types, PXC supports heterogeneous devices with diverse capabilities, enabling fine-tuned optimizations and static checks of communication correctness across varying deployment environments.
 
   <br>
   
