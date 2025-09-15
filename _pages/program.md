@@ -175,7 +175,11 @@ In this talk, I will discuss asynchronous communication in the context of sessio
   
   __Davide Sangiorgi__
   
-  __Title:__ TBD: behavioural proof techniques, related to asynchrony
+  __Title:__ asyncrony in process calculi
+  
+  __Abstract:__
+  This talk will be mainly a literature review on the meaning of asynchrony in process calculi.
+  I will also discuss some recent ongoing work of mine on this subject (a collaboration with K. Sakayori, Tokyo)
 
   <br>
   
