@@ -14,6 +14,7 @@ The list below includes everyone who showed interest in participating in APM.
   - _Ferruccio Damiani_, University of Turin (IT)
   - _Fynn Demmler_, TU Darmstadt (DE)
   - _Crystal Chang Din_, University of Bergen (NO)
+  - _Charaf Eddine Dridi_, Western Norway University of Applied Sciences (NO)
   - _Daniel Drodt_, TU Darmstadt (DE)
   - _Reiner Hähnle_, TU Darmstadt (DE)
   - _Einar Broch Johnsen_, University of Oslo (NO)
@@ -28,7 +29,8 @@ The list below includes everyone who showed interest in participating in APM.
   - _Riccardo Sieve_, University of Oslo (NO)
   - _Volker Stolz_, Western Norway University of Applied Sciences (NO)
   - _Asmae Heydari Tabar_, Karlsruhe Institute of Technology (DE)
-  - _S. Lizeth Tapia Tarifa_, University of Oslo (NO)
+  - _Silvia Lizeth Tapia Tarifa_, University of Oslo (NO)
+  - _Ulises Torrella_, Western Norway University of Applied Sciences (NO)
   - _Adele Veschetti_, TU Darmstadt (DE)
 
 <!-- 
