@@ -122,6 +122,17 @@ invariant. We illustrate the proof system by a parametric  specification and ver
 In this talk, I introduce the Placed eXchange Calculus (PXC), a novel (yet unpublished) variant of the eXchange Calculus (XC ) aggregate programming framework, integrating placed data types from multitier programming. PXC combines the strengths of these frameworks, offering expressive and statically verifiable models for distributed computation while addressing resilience to unreliable networks and adapting to dynamic topologies. By leveraging placed data types, PXC supports heterogeneous devices with diverse capabilities, enabling fine-tuned optimizations and static checks of communication correctness across varying deployment environments.
 
   <br>
+
+  __Charaf Eddine Dridi__
+
+__Title:__ Resource Contracts for Active Objects
+
+__Abstract:__
+Workflows coordinate tasks across departments or organisations, where correct execution depends not only on control dependencies but also on the availability of shared resources. This paper presents ReAct, a resource-aware active object language for workflow modelling. 
+In ReAct, method declarations serve as contracts: they specify alternative resource profiles in their signatures, giving methods multiple execution options when resources are limited. Methods can be invoked only once their dependency conditions are satisfied; at activation, a feasible resource profile is then selected and allocated. 
+We encode the language in Maude and show how workflows can be executed, simulated, and verified against their declared dependencies and resource requirements.
+
+<br>
   
   __Daniel Drodt__
   
@@ -205,9 +216,17 @@ __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digita
 
 __Asmae Heydari Tabar__
   
-__Title:__ Title: Correctness-by-construction for ABS and verification of ABS programs, a full circle
+__Title:__ Correctness-by-construction for ABS and verification of ABS programs, a full circle
 
 
+<br>
+
+__Ulises Torrella__
+
+__Title:__ Fair Termination for Resource-Aware Active Objects
+
+__Abstract:__
+Active object systems are a model of distributed computation that has been adopted for modelling distributed systems and business process workflows. This field of modelling is, in essence, concurrent and resource-aware, motivating the development of resource-aware formalisations on the active object model. The contributions of this work are the development of a core calculus for resource-aware active objects together with a type system ensuring that well-typed programs are fairly terminating, i.e., they can always eventually terminate. To achieve this, we combine techniques from graded semantics and type systems, which are quite well understood for sequential programs, with those for fair termination, which have been developed for synchronous sessions.
 
 
   
