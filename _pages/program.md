@@ -151,6 +151,14 @@ We encode the language in Maude and show how workflows can be executed, simulate
   Timed Rebeca is an actor-based language for modeling and analyzing timed reactive systems. Timed Rebeca has a formal SOS-style semantics, as well as one in terms of rewrite rules. While the latter is suitable for model exploration and bounded model checking, it is less so for the purpose of deductive verification. Since we believe there is great potential in deductive verification of Timed Rebeca programs, as a preparatory step, in the present paper we provide a locally abstract, globally concrete (LAGC) semantics. This is a new approach to the semantic foundation of programming languages. An LAGC semantics is a highly modular, incremental trace semantics, particularly suited to ensure soundness of global program analyses such as deductive verification. We provide the first LAGC-style semantics for Timed Rebeca and discuss possible future applications.
 
   <br>
+
+__Einar Broch Johnsen__
+
+__Title:__ TBD
+
+__Abstract:__ TBD
+
+  <br>
   
 __Michael Lienhardt__
 
@@ -220,6 +228,14 @@ __Title:__ Correctness-by-construction for ABS and verification of ABS programs,
 
 
 <br>
+
+__Silvia Lizeth Tapia Tarifa__
+
+__Title:__ TBD
+
+__Abstract:__ TBD
+
+  <br>
 
 __Ulises Torrella__
 
