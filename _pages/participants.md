@@ -12,7 +12,7 @@ The list below includes everyone who showed interest in participating in APM.
   - _Maurice ter Beek_, Italian National Research Council (IT)
   - _Frank de Boer_, CWI (NL)
   - _Ferruccio Damiani_, University of Turin (IT)
-  - _Fynn Demmler_, TU Darmstadt (DE)
+  - _Fynn Demmler_, Karlsruhe Institute of Technology (DE)
   - _Crystal Chang Din_, University of Bergen (NO)
   - _Charaf Eddine Dridi_, Western Norway University of Applied Sciences (NO)
   - _Daniel Drodt_, TU Darmstadt (DE)
