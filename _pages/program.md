@@ -98,6 +98,13 @@ hide: false
   <br> <br>
   
 ## Confirmed Talks
+
+ <br>
+
+__Maurice ter Beek__ and __José Proença__
+
+__Title:__ Towards Asynchronous Communication in Team Automata
+
  <br>
  
   __Frank de Boer__
