@@ -237,6 +237,7 @@ __Title:__ Correctness-by-construction for ABS and verification of ABS programs,
 
 <br>
 
+<!-- 
 __Silvia Lizeth Tapia Tarifa__
 
 __Title:__ TBD
@@ -244,6 +245,7 @@ __Title:__ TBD
 __Abstract:__ TBD
 
   <br>
+-->
 
 __Ulises Torrella__
 
