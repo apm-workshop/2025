@@ -112,7 +112,7 @@ __Title:__ Towards Asynchronous Communication in Team Automata
   __Title:__ Contract-based proof system for actors
   
    __Abstract:__ 
-   sI will present a contract-based proof system for actors. 
+   I will present a contract-based proof system for actors. 
 Asynchronous method calls are specified and verified in terms of the contracts of the called methods.  The interaction between actors is specified and verified using histories which consist of 3 kinds of events, which indicate a method call,  a method selection, and a method
 return, respectively. Apart from a contract, a specification of a class consists of a local class 
 invariant. We illustrate the proof system by a parametric  specification and verification of an actor-based encoding of the good old dining philosophers.
