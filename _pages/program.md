@@ -61,21 +61,21 @@ hide: false
 		</tr>
 		<tr>
 			<td> <b> 10:30 - 12:00 </b> </td>
-			<td> <b> Chair: </b> TBD</td>
-			<td> <b> Chair: </b> TBD</td>
-			<td> <b> Chair: </b> TBD</td>
+			<td> <b> Chair: </b> Einar Broch Johnsen</td>
+			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
+			<td> <b> Chair: </b> Ferruccio Damiani</td>
 		</tr>
 		<tr>
 			<td>  10:30 - 11:15  </td>
-			<td>TBD</td>
-			<td>TBD</td>
-			<td>TBD</td>
+			<td> <em> Davide Sangiorgi: </em> asyncrony in process calculi</td>
+			<td> <em> Charaf Eddine Dridi: </em> Resource Contracts for Active Objects</td>
+			<td> <em> Michael Lienhardt: </em> Orchestrating Multi-Physical Simulations</td>
 		</tr>
 		<tr>
 			<td>  11:15 - 12:00  </td>
-			<td>TBD</td>
-			<td>TBD</td>
-			<td>TBD</td>
+			<td> <em> Ferruccio Damiani: </em> A Language for Resilient Distributed Systems</td>
+			<td> <em> Ulises Torrella: </em> Fair Termination for Resource-Aware Active Objects</td>
+			<td> <em> Riccardo Sieve: </em> BedreFlyt:  Improving Patient Flows through Hospital Wards with Digital Twins</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -89,21 +89,21 @@ hide: false
 		</tr>
 		<tr>
 			<td> <b> 14:00 - 15:30 </b> </td>
-			<td> <b> Chair: </b> TBD</td>
-			<td> <b> Chair: </b> TBD</td>
-			<td> <b> Chair: </b> TBD</td>
+			<td> <b> Chair: </b> Rudi Schlatte </td>
+			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
+			<td> <b> Chair: </b> Violet Ka I Pun </td>
 		</tr>
 		<tr>
 			<td> 14:00 - 14:45  </td>
-			<td>TBD</td>
-			<td>TBD</td>
-			<td>TBD</td>
+			<td> <em> Daniel Drodt: </em> Is the Rust’s Tokio Runtime Fair?</td>
+			<td> <em> Reiner Hähnle: </em> An Introduction to LAGC Semantics</td>
+			<td> <em> Maurice ter Beek and José Proença: </em> Towards Asynchronous Communication in Team Automata</td>
 		</tr>
 		<tr>
 			<td> 14:45 - 15:30  </td>
-			<td>TBD</td>
-			<td>TBD</td>
-			<td>TBD</td>
+			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
+			<td> <em> Rudi Schlatte: </em> ABS and update in its status</td>
+			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -118,17 +118,17 @@ hide: false
 		</tr>
 		<tr>
 			<td> <b> 16:00 - 17:30 </b> </td>
-			<td> <b> Chair: </b> TBD</td>
-			<td> <b> Chair: </b> TBD</td>
+			<td> <b> Chair: </b> Volker Stolz </td>
+			<td> <b> Chair: </b> Reiner Hähnle </td>
 		</tr>
 		<tr>
 			<td> 16:00 - 16:45 </td>
-			<td>TBD</td>
+			<td> <em> Frank de Boer: </em> Contract-based proof system for actors</td>
 			<td>TBD</td>
 		</tr>
 		<tr>
 			<td> 16:45 - 17:30 </td>
-			<td>TBD</td>
+			<td> <em> Einar Broch Johnsen: </em> Declarative Dynamic Object Reclassification</td>
 			<td>TBD</td>
 		</tr>
 	</tbody>
