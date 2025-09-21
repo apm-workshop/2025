@@ -110,7 +110,7 @@ hide: false
 		<tr>
 			<td> <b> 15:30 - 16:00 </b> </td>
    			<td colspan="2"> <b> Coffee Break </b> </td>
-			<td rowspan="6">-</td>
+			<td rowspan="5">-</td>
 		</tr>
 		<tr>
 		 <td colspan="3"> <b> </b> </td>
