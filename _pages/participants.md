@@ -31,7 +31,6 @@ The list below includes everyone who showed interest in participating in APM.
   - _Asmae Heydari Tabar_, Karlsruhe Institute of Technology (DE)
   - _Silvia Lizeth Tapia Tarifa_, University of Oslo (NO)
   - _Ulises Torrella_, Western Norway University of Applied Sciences (NO)
-  - _Adele Veschetti_, TU Darmstadt (DE)
 
 <!-- 
 ## Participants who are considering going
