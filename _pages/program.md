@@ -55,6 +55,8 @@ hide: false
 		<tr>
 			<td> <b> 10:20 - 10:30 </b> </td>
 			<td >  Welcome and Practicalities </td>
+		</tr>
+		<!-- 
 		<tr>
 		 <td colspan="4">  </td>
 		</tr>
@@ -130,6 +132,7 @@ hide: false
 			<td>TBD</td>
 			<td>TBD</td>
 		</tr>
+		-->
 	</tbody>
 </table>
 </body>
