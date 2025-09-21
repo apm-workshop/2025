@@ -48,46 +48,86 @@ hide: false
 	</thead>
 	<tbody>
 		<tr>
-			<td> <b> 10:00 - 10:30 </b> </td>
-			<td colspan="3" style="text-align: center;"> <b> Coffee </b> </td>
+			<td> <b> 10:00 - 10:20 </b> </td> 
+			<td  style="text-align: center;"> <b> Coffee </b> </td>
+			<td colspan="2" rowspan="2" style="text-align: center;"> <b> Coffee </b> </td>
 		</tr>
 		<tr>
-			<td rowspan="2"> <b> 10:30 - 12:00 </b> </td>
+			<td> <b> 10:20 - 10:30 </b> </td>
+			<td >  Welcome and Practicalities </td>
+		</tr>
+		 <td colspan="4"> <b> </b> </td>
+		<tr>
+		</tr>
+		<tr>
+			<td> <b> 10:30 - 12:00 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 		</tr>
 		<tr>
+			<td>  10:30 - 11:15  </td>
 			<td>TBD</td>
 			<td>TBD</td>
 			<td>TBD</td>
 		</tr>
+		<tr>
+			<td>  11:15 - 12:00  </td>
+			<td>TBD</td>
+			<td>TBD</td>
+			<td>TBD</td>
+		</tr>
+		</tr>
+		 <td colspan="4"> <b> </b> </td>
+		<tr>
 		<tr>
 			<td> <b> 12:00 - 14:00 </b> </td>
 			<td colspan="3"> <b> Lunch </b> </td>
 		</tr>
+		</tr>
+		 <td colspan="4"> <b> </b> </td>
 		<tr>
-			<td rowspan="2"> <b> 14:00 - 15:30 </b> </td>
+		<tr>
+			<td> <b> 14:00 - 15:30 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 		</tr>
 		<tr>
+			<td> 14:00 - 14:45  </td>
 			<td>TBD</td>
 			<td>TBD</td>
 			<td>TBD</td>
 		</tr>
+		<tr>
+			<td> 14:45 - 15:30  </td>
+			<td>TBD</td>
+			<td>TBD</td>
+			<td>TBD</td>
+		</tr>
+		</tr>
+		 <td colspan="4"> <b> </b> </td>
+		<tr>
 		<tr>
 			<td> <b> 15:30 - 16:00 </b> </td>
    			<td colspan="2"> <b> Coffee Break </b> </td>
-			<td rowspan="3">-</td>
+			<td rowspan="6">-</td>
 		</tr>
+	    </tr>
+		 <td colspan="3"> <b> </b> </td>
 		<tr>
-			<td rowspan="2" > <b> 16:00 - 17:30 </b> </td>
+		<tr>
+			<td> <b> 16:00 - 17:30 </b> </td>
 			<td> <b> Chair: </b> TBD</td>
 			<td> <b> Chair: </b> TBD</td>
 		</tr>
 		<tr>
+			<td> 16:00 - 16:45 </td>
+			<td>TBD</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td> 16:45 - 17:30 </td>
 			<td>TBD</td>
 			<td>TBD</td>
 		</tr>
