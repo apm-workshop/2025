@@ -46,6 +46,14 @@ There are many hotels around. We include a selection of possible hotels. All exc
  - Hotel Douro (3⭐️, 18 min, [booking](https://www.booking.com/hotel/pt/douro.pt-pt.html?lang=en-gb){: target="_blank"})
  - ABC Hotel Porto - Boavista (4⭐️, 23 min, [booking](https://www.booking.com/hotel/pt/abc-porto-casa-da-musica.pt-pt.html?lang=en-gb){: target="_blank"})
 
+## Dinner and Social event
+
+The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) on the 2nd Oct (19h).
+
+For more information, please contact one of the local organizers:
+
+ - [José Proença](https://jose.proenca.org)
+ - [João Barbosa](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=565525)
 
 
 <!-- ## Social Event -->
