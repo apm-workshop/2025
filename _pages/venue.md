@@ -7,7 +7,7 @@ published: true
 ---
 
 
-Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop is expected to take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room FC6.106 and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
+Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop is expected to take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332) and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
 
 <!-- ![Venues][image1] -->
 
