@@ -143,7 +143,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
   
 ## Abstract of the Talks
 
-  <br>
+<br>
 
 ### Wednesday, 1st of October.
 
@@ -209,7 +209,7 @@ __Title:__ Declarative Dynamic Object Reclassification
 __Abstract:__ 
 In object-oriented languages, dynamic object reclassification is a technique to change the class binding of an object at runtime. Current approaches express when and how to reclassify inside the program’s business code, while maintaining internal consistency. These approaches are less suited for programs that need to be consistent with an external context, such as autonomous systems interacting with a knowledge base. This talk presents declarative dynamic object reclassification, a novel technique that provides a separation of concerns between a program’s business code and its adaptation logic for reclassification, expressed via a knowledge base. We present Featherweight Semantically Reflected Java, a minimal calculus for declarative dynamic object reclassification that enables the programmer to define consistency both internally (using a type system) and externally (using declarative classification queries). We use this calculus to study how internal and external consistency interact for declarative dynamic object reclassification. We further implement the technique by extending SMOL, a language for reflective programming via external knowledge bases.
 
-  <br>
+<br>
 
 ### Thursday, 2nd of October.
 
