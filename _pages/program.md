@@ -145,7 +145,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 
   <br>
 
-  ### Wednesday, 1st of October.
+### Wednesday, 1st of October.
   
   
 	
@@ -210,8 +210,7 @@ In object-oriented languages, dynamic object reclassification is a technique to 
 
   <br>
 
-  
-  ### Thursday, 2nd of October.
+### Thursday, 2nd of October.
   
 
 
