@@ -7,7 +7,7 @@ published: true
 ---
 
 
-Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop is expected to take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__ and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
+Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop is expected to take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room FC6.106 and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
 
 <!-- ![Venues][image1] -->
 
@@ -50,12 +50,6 @@ There are many hotels around. We include a selection of possible hotels. All exc
 
 The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) on the 2nd Oct (19h).
 
-For more information, please contact one of the local organizers:
-
- - [José Proença](https://jose.proenca.org)
- - [João Barbosa](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=565525)
-
-
 <!-- ## Social Event -->
 
 
@@ -63,8 +57,8 @@ For further information, please contact one of the local organizers.
 
 <!-- General Organization: José Proença -->
 
-- [David Pereira](https://pt.linkedin.com/in/dmrpereira)
 - [José Proença](https://jose.proenca.org)
+- [João Barbosa](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=565525)
 
 
 
