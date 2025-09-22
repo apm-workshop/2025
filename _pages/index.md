@@ -19,12 +19,14 @@ The APM workshop stands in the tradition of the ABS workshop, whose last iterati
 
 <!-- The official registration and prices are not yet available. However, we invite you to submit the pre-registration form without any commitment, to help us organising this event. -->
 
-The official registration is now open. To register please follow the link below __until 18th Sep__. If you have any problem, please contact jose.proenca@fc.up.pt.
+The official registration is now closed since __18th Sep__. If you would still like to join, please contact jose.proenca@fc.up.pt.
+
+<!--
 There will be no reviewing, but attendance is subject to approval by the organizers. If you previously filled the pre-registration form, this will replace your previous information, keeping the title and abstract unchanged when left empty.
 
- <!-- - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5) -->
+ - [Pre-registration form](https://forms.gle/Wny3pB9sGV8eonwu5)
 
-- [Final Registration form](https://forms.gle/AQSoqceYgN14T6G46)
+ - [Final Registration form](https://forms.gle/AQSoqceYgN14T6G46)
 
 The registration prices are listed below:
 
@@ -32,6 +34,8 @@ The registration prices are listed below:
  - Standard (basic + a social dinner on Wednesday, 150€)
  - Regular (basic + a  social event on Thursday evening, 180€)
  - Full (standard + a social event on Thursday evening, 230€)
+
+-->
 
 <!--
 ## Venue
