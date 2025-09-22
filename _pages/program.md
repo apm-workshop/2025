@@ -7,6 +7,9 @@ published: true
 hide: false
 ---
 
+The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332) and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
+
+
 <head>
 <style>
 	table {
@@ -38,7 +41,7 @@ hide: false
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
-			<th  colspan="3">Room: TBA</th>
+			<th  colspan="3"> Building FC6, room FC6.106 (first floor - entrance is on the ground floor)</th>
 		</tr>
             	<tr>
 			<th>Wednesday Oct. 01</th>
@@ -82,7 +85,7 @@ hide: false
 		</tr>
 		<tr>
 			<td> <b> 12:00 - 14:00 </b> </td>
-			<td colspan="3"> <b> Lunch </b> </td>
+			<td colspan="3"> <b> Lunch at [__Maria Dentada__](https://mariadentada.pt/) </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
