@@ -57,7 +57,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		</tr>
 		<tr>
 			<td> <b> 10:20 - 10:30 </b> </td>
-			<td >  Welcome and Practicalities </td>
+			<td >  <em>  José Proença and S. Lizeth Tapia Tarifa: </em> Welcome and Practicalities </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
