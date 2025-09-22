@@ -69,13 +69,13 @@ hide: false
 			<td>  10:30 - 11:15  </td>
 			<td> <em> Davide Sangiorgi: </em> asyncrony in process calculi</td>
 			<td> <em> Charaf Eddine Dridi: </em> Resource Contracts for Active Objects</td>
-			<td> <em> Michael Lienhardt: </em> Orchestrating Multi-Physical Simulations</td>
+			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
 		</tr>
 		<tr>
 			<td>  11:15 - 12:00  </td>
 			<td> <em> Ferruccio Damiani: </em> A Language for Resilient Distributed Systems</td>
 			<td> <em> Ulises Torrella: </em> Fair Termination for Resource-Aware Active Objects</td>
-			<td> <em> Riccardo Sieve: </em> BedreFlyt:  Improving Patient Flows through Hospital Wards with Digital Twins</td>
+			<td> <em> Maurice ter Beek and José Proença: </em> Towards Asynchronous Communication in Team Automata</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -90,20 +90,20 @@ hide: false
 		<tr>
 			<td> <b> 14:00 - 15:30 </b> </td>
 			<td> <b> Chair: </b> Rudi Schlatte </td>
-			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
+			<td> <b> Chair: </b> Frank de Boer </td>
 			<td> <b> Chair: </b> Violet Ka I Pun </td>
 		</tr>
 		<tr>
 			<td> 14:00 - 14:45  </td>
 			<td> <em> Daniel Drodt: </em> Is the Rust’s Tokio Runtime Fair?</td>
 			<td> <em> Reiner Hähnle: </em> An Introduction to LAGC Semantics</td>
-			<td> <em> Maurice ter Beek and José Proença: </em> Towards Asynchronous Communication in Team Automata</td>
+			<td> <em> Riccardo Sieve: </em> BedreFlyt:  Improving Patient Flows through Hospital Wards with Digital Twins</td>
 		</tr>
 		<tr>
 			<td> 14:45 - 15:30  </td>
 			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
 			<td> <em> Rudi Schlatte: </em> ABS and update in its status</td>
-			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
+   			<td> <em> Michael Lienhardt: </em> Orchestrating Multi-Physical Simulations</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
