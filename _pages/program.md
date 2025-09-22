@@ -146,7 +146,8 @@ The workshop will take place at the __Department of Computer Science of the Facu
   <br>
 
 ### Wednesday, 1st of October.
-  
+
+<br>  
   
 	
  __Davide Sangiorgi__
@@ -211,7 +212,8 @@ In object-oriented languages, dynamic object reclassification is a technique to 
   <br>
 
 ### Thursday, 2nd of October.
-  
+
+<br>  
 
 
  __Charaf Eddine Dridi__
@@ -250,11 +252,11 @@ __Title:__ ABS status update
  __Abstract:__
   Recent developments and status of the ABS toolchain
 
-  <br>
+<br>
 
 ### Friday, 3rd of October.
   
-
+<br>  
 
 
 __Jorge Pérez__
