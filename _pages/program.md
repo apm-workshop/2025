@@ -85,7 +85,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		</tr>
 		<tr>
 			<td> <b> 12:00 - 14:00 </b> </td>
-			<td colspan="3"> <b> Lunch at [__Maria Dentada__](https://mariadentada.pt/) </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td>
+			<td colspan="3"> <b> Lunch at Maria Dentada </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
