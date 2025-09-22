@@ -236,10 +236,10 @@ Active object systems are a model of distributed computation that has been adopt
 
  __Reiner Hähnle__
   
-  __Title:__ An LAGC Semantics for Timed Rebeca
+  __Title:__ An Introduction to LAGC Semantics
   
   __Abstract:__
-  Timed Rebeca is an actor-based language for modeling and analyzing timed reactive systems. Timed Rebeca has a formal SOS-style semantics, as well as one in terms of rewrite rules. While the latter is suitable for model exploration and bounded model checking, it is less so for the purpose of deductive verification. Since we believe there is great potential in deductive verification of Timed Rebeca programs, as a preparatory step, in the present paper we provide a locally abstract, globally concrete (LAGC) semantics. This is a new approach to the semantic foundation of programming languages. An LAGC semantics is a highly modular, incremental trace semantics, particularly suited to ensure soundness of global program analyses such as deductive verification. We provide the first LAGC-style semantics for Timed Rebeca and discuss possible future applications.
+ Formal, mathematically rigorous programming language semantics are the essential prerequisite for the design of logics and calculi that permit automated reasoning about concurrent programs. This talk introduces Locally Abstract Globally Concrete semantics, which separates local evaluation of expressions and statements performed in an abstract, symbolic environment from their composition into global computations, at which point they are concretised. This makes incremental addition of new language concepts possible, without the need to revise the framework. The basis is a generalisation of the notion of a program trace as a sequence of evolving states that are enriched with event descriptors and trailing continuation markers. This allows to postpone scheduling constraints from the level of local evaluation to the global composition stage, where well-formedness predicates over the event structure declaratively characterise a wide range of concurrency models. 
 
   <br>
 
