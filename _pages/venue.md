@@ -7,7 +7,7 @@ published: true
 ---
 
 
-Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop is expected to take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332) and lunches will likely be served at a close by restaurant [__Maria Dentada__](https://mariadentada.pt/).
+Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic centre and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com/) for a quick guide of the city. The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332) and lunches will be served at a nearby restaurant [__Maria Dentada__](https://mariadentada.pt/).
 
 <!-- ![Venues][image1] -->
 
@@ -48,7 +48,7 @@ There are many hotels around. We include a selection of possible hotels. All exc
 
 ## Dinner and social event
 
-The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) on the 2nd Oct (19h).
+The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) ([map](https://maps.app.goo.gl/CVW2hnhiU1dDk8dD8)) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) ([map](https://maps.app.goo.gl/8dJNbtRLiMNEG3uN8)) on the 2nd Oct (19h).
 
 <!-- ## Social Event -->
 
