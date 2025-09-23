@@ -66,7 +66,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		<tr>
 			<td> <b> 10:30 - 12:00 </b> </td>
 			<td> <b> Chair: </b> Einar Broch Johnsen</td>
-			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
+			<td> <b> Chair: </b> Frank de Boer </td>
 			<td> <b> Chair: </b> Ferruccio Damiani</td>
 		</tr>
 		<tr>
@@ -94,7 +94,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		<tr>
 			<td> <b> 14:00 - 15:30 </b> </td>
 			<td> <b> Chair: </b> Rudi Schlatte </td>
-			<td> <b> Chair: </b> Frank de Boer </td>
+			<td> <b> Chair: </b> S. Lizeth Tapia Tarifa </td>
 			<td> <b> Chair: </b> Violet Ka I Pun </td>
 		</tr>
 		<tr>
@@ -106,7 +106,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		<tr>
 			<td> 14:45 - 15:30  </td>
 			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
-			<td> <em> Rudi Schlatte: </em> ABS and update in its status</td>
+			<td> <em> Frank de Boer: </em> First Order Hybrid Separation~Logic  </td>
    			<td> <em> Michael Lienhardt: </em> Orchestrating Multi-Physical Simulations</td>
 		</tr>
 		<tr>
@@ -128,12 +128,12 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		<tr>
 			<td> 16:00 - 16:45 </td>
 			<td> <em> Frank de Boer: </em> Contract-based proof system for actors</td>
-			<td>TBD</td>
+			<td> <em> Rudi Schlatte: </em> ABS and update in its status </td>
 		</tr>
 		<tr>
 			<td> 16:45 - 17:30 </td>
 			<td> <em> Einar Broch Johnsen: </em> Declarative Dynamic Object Reclassification</td>
-			<td>TBD</td>
+			<td> Discussion </td>
 		</tr>
 	</tbody>
 </table>
@@ -243,7 +243,13 @@ Active object systems are a model of distributed computation that has been adopt
   __Abstract:__
  Formal, mathematically rigorous programming language semantics are the essential prerequisite for the design of logics and calculi that permit automated reasoning about concurrent programs. This talk introduces Locally Abstract Globally Concrete semantics, which separates local evaluation of expressions and statements performed in an abstract, symbolic environment from their composition into global computations, at which point they are concretised. This makes incremental addition of new language concepts possible, without the need to revise the framework. The basis is a generalisation of the notion of a program trace as a sequence of evolving states that are enriched with event descriptors and trailing continuation markers. This allows to postpone scheduling constraints from the level of local evaluation to the global composition stage, where well-formedness predicates over the event structure declaratively characterise a wide range of concurrency models. 
 
-  <br>
+<br>
+
+__Frank de Boer__
+  
+__Title:__ First Order Hybrid Separation~Logic
+
+<br>
 
  __Rudi Schlatte__
   
@@ -253,6 +259,10 @@ __Title:__ ABS status update
   Recent developments and status of the ABS toolchain
 
 <br>
+
+__Title:__ Discussion
+
+ __Possible topics:__ (1) further development of the ABS language and runtime, (2) use-cases used to showcase different asynchronous models, (3) APM2026, (4) ...
 
 ### Friday, 3rd of October.
   
