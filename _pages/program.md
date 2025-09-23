@@ -264,6 +264,8 @@ __Title:__ Discussion
 
  __Possible topics:__ (1) further development of the ABS language and runtime, (2) use-cases used to showcase different asynchronous models, (3) APM2026, (4) ...
 
+<br> 
+
 ### Friday, 3rd of October.
   
 <br>  
