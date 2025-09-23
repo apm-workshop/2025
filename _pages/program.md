@@ -141,7 +141,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 
   <br> <br>
   
-## Abstract of the Talks
+## Abstracts of the Talks
 
 <br>
 
