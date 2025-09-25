@@ -65,8 +65,13 @@ If there are any inquiries or questions, feel free to contact the organizers:
 [![University of Oslo]({{ site.baseurl }}{% link assets/images/logo-uio.png %} "logo")](https://www.uio.no/english/){:target="blank"}
 [![Vortex Co-lab]({{ site.baseurl }}{% link assets/images/logo-vortex.png %} "logoSmall")](https://www.vortex-colab.com/){:target="blank"}
 [![CISTER]({{ site.baseurl }}{% link assets/images/logo-cister.png %} "logoSmall")](https://www.cister-labs.pt/){:target="blank"}
+[![HAL4SDV]({{ site.baseurl }}{% link assets/images/logo-hal4sdv.avif %} "logoSmall")](https://www.hal4sdv.eu/){:target="blank"}
 [![CGD]({{ site.baseurl }}{% link assets/images/logo-cgd.webp %} "logo")](https://www.cgd.pt/){:target="blank"}
 
+
+
+{:class="thanks"}
+<small>This event was partially supported by the CISTER Research Unit (UIDP/UIDB/04234/2020), financed by National Funds through FCT/MCTES (Portuguese Foundation for Science and Technology); by project HAL4SDV funding within the Chips Joint Undertaking (Chips JU) - the Public-Private Partnership for research, development and innovation under Horizon Europe – and National Authorities under grant agreement n° 101139789</small>
 
 <!--
 
