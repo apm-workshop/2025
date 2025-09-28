@@ -284,7 +284,10 @@ __Maurice ter Beek__ and __José Proença__
 
 __Title:__ Towards Asynchronous Communication in Team Automata
 
- <br>
+__Abstract:__
+Team Automata is a formalism for interacting component-based systems proposed in 1997, whereby multiple sending and receiving actions from concurrent automata can synchronise, and since then, team automata have been studied and applied in many different contexts. In this talk, we first revisit the specific notion of constrained multi-party synchronisation in the composition of team automata. We then focus on several aspects that we recently investigated for team automata, like communication properties (can receptiveness and responsiveness be guaranteed?), realisability (how to decompose a global model into local components?), featured team automata (integrating variability to permit family-based analysis), and tool support (what has been implemented?). After this snapshot of recent research on team automata, we unveil ongoing research on implementing asynchronous communication in team automata and the possible impact on communication properties and realisability.
+
+<br>
  
  __Riccardo Sieve__
   
