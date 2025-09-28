@@ -7,7 +7,7 @@ published: true
 hide: false
 ---
 
-The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332) and lunches will be served at the restaurant [__Maria Dentada__](https://mariadentada.pt/).
+The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room [FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060){:target="_blank"} of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332){:target="_blank"} and lunches will be served at the restaurant [__Maria Dentada__](https://mariadentada.pt/){:target="_blank"} ([map](https://maps.app.goo.gl/8qUxXhizfYyJ67Wg9){:target="_blank"}).
 
  <br> <br>
  
@@ -284,7 +284,10 @@ __Maurice ter Beek__ and __José Proença__
 
 __Title:__ Towards Asynchronous Communication in Team Automata
 
- <br>
+__Abstract:__
+Team Automata is a formalism for interacting component-based systems proposed in 1997, whereby multiple sending and receiving actions from concurrent automata can synchronise, and since then, team automata have been studied and applied in many different contexts. In this talk, we first revisit the specific notion of constrained multi-party synchronisation in the composition of team automata. We then focus on several aspects that we recently investigated for team automata, like communication properties (can receptiveness and responsiveness be guaranteed?), realisability (how to decompose a global model into local components?), featured team automata (integrating variability to permit family-based analysis), and tool support (what has been implemented?). After this snapshot of recent research on team automata, we unveil ongoing research on implementing asynchronous communication in team automata and the possible impact on communication properties and realisability.
+
+<br>
  
  __Riccardo Sieve__
   

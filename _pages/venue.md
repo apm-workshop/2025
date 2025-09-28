@@ -48,7 +48,7 @@ There are many hotels around. We include a selection of possible hotels. All exc
 
 ## Dinner and social event
 
-The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) ([map](https://maps.app.goo.gl/CVW2hnhiU1dDk8dD8)) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) ([map](https://maps.app.goo.gl/8dJNbtRLiMNEG3uN8)) on the 2nd Oct (19h).
+The main APM dinner will take place on the [Torreão restaurant](https://www.torreao.pt/torreao-eventos/) ([map](https://maps.app.goo.gl/CVW2hnhiU1dDk8dD8){:target="_blank"}) on the 1st Oct (18h30), and the social event will involve wine tasting at [Dogma Wine Bar](https://dogmawinebar.com/) ([map](https://maps.app.goo.gl/8dJNbtRLiMNEG3uN8){:target="_blank"}) on the 2nd Oct (19h).
 
 <!-- ## Social Event -->
 
