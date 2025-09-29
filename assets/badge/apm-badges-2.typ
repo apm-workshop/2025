@@ -1,16 +1,16 @@
-#set page(margin: (x: 1cm, y: 1cm))
+#set page(margin: (x: 0.5cm, y: 0.5cm))
 #set align(center)
 
 
 #let badgeBlk(name,from) = {{
-  image("apm-badge.svg",width: 70mm)
+  image("apm-badge.svg",width: 95mm)
   place(center + horizon,
-    dy: -3mm,
-    text(black, weight: "bold", size: 17pt, name)
+    dy: -6mm,
+    text(black, weight: "bold", size: 27pt, name)
   )}
   place(right + horizon,
-    dy: 8mm, dx: -3mm,
-    block(width:50mm, text(size: 10pt,from))
+    dy: 18mm, dx: -6mm,
+    block(width:70mm, text(size: 17pt,from))
   )
     // text(black, size: 10pt, from))
 }
