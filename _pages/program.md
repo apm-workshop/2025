@@ -42,7 +42,7 @@ The workshop will take place at the __Department of Computer Science of the Facu
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
-			<th  colspan="3"> Building FC6, room FC6.106 (first floor - entrance is on the ground floor)</th>
+			<th  colspan="3"> Building FC6, room FC6.142 (first floor - entrance is on the ground floor)</th>
 		</tr>
             	<tr>
 			<th>Wednesday Oct. 01</th>
