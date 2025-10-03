@@ -6,6 +6,9 @@ hide: true
 
 Welcome to the website of the 7th International Workshop on Asynchronous Programming Models (formerly ABS Workshop), which will be held on the 1st – 3rd October in Porto, Portugal, hosted by the University of Porto. Information about prior iterations can be found [here](https://abs-models.org/publications/).
 
+# NEWS - APM 2026 in Karlsruhe, Germany (KIT)
+
+Karlsruhe Institute of Technology (KIT) will host the workshop. __7-9 October, 2026__. Save the dates!
 
 ## Description
 {: .secondH}
