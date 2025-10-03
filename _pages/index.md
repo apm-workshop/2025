@@ -8,7 +8,7 @@ Welcome to the website of the 7th International Workshop on Asynchronous Program
 
 
 # NEWS - APM 2026 in Karlsruhe, Germany (KIT)
-Karlsruhe Institute of Technology (KIT) will host the workshop. __7-9 October, 2026__. Save the dates! Further information will be available soon. 
+Karlsruhe Institute of Technology (KIT) will host the workshop. __7-9 October, 2026__. Save the dates! Further information will be available soon. For questions, please contact Asmae Tabar (asmae.heydari-tabar@kit.edu).
 
 
 ## Description
