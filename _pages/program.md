@@ -308,7 +308,7 @@ __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digita
   
 __Michael Lienhardt__
 
-__Title:__ Orchestrating Multi-Physical Simulations
+__Title:__ Orchestrating Multi-Physical Simulations.[[Slides]](assets/talks/prez.pdf){:target="_blank"}
 
 __Slides:__ <a href="../assets/slides/apm25-michael.pdf">https://apm-workshop.github.io/2025/assets/slides/apm25-michael.pdf</a>
 
