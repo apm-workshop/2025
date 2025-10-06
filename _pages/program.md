@@ -222,9 +222,7 @@ In object-oriented languages, dynamic object reclassification is a technique to 
 
  __Charaf Eddine Dridi__
 
-__Title:__ Resource Contracts for Active Objects
-
-__Slides:__ <a href="../assets/slides/apm25-charaf.pdf">https://apm-workshop.github.io/2025/assets/slides/apm25-charaf.pdf</a>
+__Title:__ Resource Contracts for Active Objects [[Slides]](../assets/slides/apm25-charaf.pdf){:target="_blank"}
 
 __Abstract:__
 Workflows coordinate tasks across departments or organisations, where correct execution depends not only on control dependencies but also on the availability of shared resources. This paper presents ReAct, a resource-aware active object language for workflow modelling. 
@@ -308,9 +306,9 @@ __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digita
   
 __Michael Lienhardt__
 
-__Title:__ Orchestrating Multi-Physical Simulations.[[Slides]](assets/talks/prez.pdf){:target="_blank"}
+__Title:__ Orchestrating Multi-Physical Simulations [[Slides]](../assets/slides/apm25-michael.pdf){:target="_blank"}
 
-__Slides:__ <a href="../assets/slides/apm25-michael.pdf">https://apm-workshop.github.io/2025/assets/slides/apm25-michael.pdf</a>
+
 
 __Abstract:__
   A physical Simulator is a complex software dedicated to the simulation of a specific physical phenomenon (fluid, solid, light, chemistry, etc.).
