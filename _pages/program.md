@@ -72,7 +72,9 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		<tr>
 			<td>  10:30 - 11:15  </td>
 			<td> <em> Davide Sangiorgi: </em> asyncrony in process calculi</td>
-			<td> <em> Charaf Eddine Dridi: </em> Resource Contracts for Active Objects</td>
+			<td> <em> Charaf Eddine Dridi: </em> 
+				<a href="../assets/slides/apm25-charaf.pdf">Resource Contracts for Active Objects</a>
+			</td>
 			<td> <em> Jorge Pérez: </em> Asynchronous Session-based Concurrency: Deadlock Freedom by Typing</td>
 		</tr>
 		<tr>
@@ -107,7 +109,9 @@ The workshop will take place at the __Department of Computer Science of the Facu
 			<td> 14:45 - 15:30  </td>
 			<td> <em> Michele Loreti: </em> A gentle introduction to YODA and its tools</td>
 			<td> <em> Frank de Boer: </em> First Order Hybrid Separation~Logic  </td>
-   			<td> <em> Michael Lienhardt: </em> Orchestrating Multi-Physical Simulations</td>
+   			<td> <em> Michael Lienhardt: </em>
+   			<a href="../assets/slides/apm25-michael.pdf">Resource Contracts for Active Objects</a>
+   			</td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
@@ -220,6 +224,8 @@ In object-oriented languages, dynamic object reclassification is a technique to 
 
 __Title:__ Resource Contracts for Active Objects
 
+__Slides:__ <a href="../assets/slides/apm25-charaf.pdf">https://apm-workshop.github.io/2025/assets/slides/apm25-charaf.pdf</a>
+
 __Abstract:__
 Workflows coordinate tasks across departments or organisations, where correct execution depends not only on control dependencies but also on the availability of shared resources. This paper presents ReAct, a resource-aware active object language for workflow modelling. 
 In ReAct, method declarations serve as contracts: they specify alternative resource profiles in their signatures, giving methods multiple execution options when resources are limited. Methods can be invoked only once their dependency conditions are satisfied; at activation, a feasible resource profile is then selected and allocated. 
@@ -304,7 +310,9 @@ __Michael Lienhardt__
 
 __Title:__ Orchestrating Multi-Physical Simulations
 
-  __Abstract:__
+__Slides:__ <a href="../assets/slides/apm25-michael.pdf">https://apm-workshop.github.io/2025/assets/slides/apm25-michael.pdf</a>
+
+__Abstract:__
   A physical Simulator is a complex software dedicated to the simulation of a specific physical phenomenon (fluid, solid, light, chemistry, etc.).
 Consequently, to simulate multiple and interacting phenomena, we need to orchestrate several simulators together.
 This requires identifying which data should be communicated between which solver and at which point of the simulation.
