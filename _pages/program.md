@@ -302,7 +302,7 @@ __Title:__ BedreFlyt: Improving Patient Flows through Hospital Wards with Digita
   
 __Michael Lienhardt__
 
-__Title:__ Orchestrating Multi-Physical Simulations
+__Title:__ Orchestrating Multi-Physical Simulations.[[Slides]](assets/talks/prez.pdf){:target="_blank"}
 
   __Abstract:__
   A physical Simulator is a complex software dedicated to the simulation of a specific physical phenomenon (fluid, solid, light, chemistry, etc.).
