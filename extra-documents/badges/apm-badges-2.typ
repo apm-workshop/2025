@@ -15,7 +15,7 @@
     // text(black, size: 10pt, from))
 }
 
-#let arr = csv("Form responses.csv").slice(1)
+#let arr = csv("responses.csv").slice(1)
 
 #grid(
   columns: 2,
@@ -29,10 +29,40 @@
       text(", ")
       row.at(4)
     }
-    // badgeBlk(name, from)
-  // })
-    (badgeBlk(name,from),badgeBlk(name, from))
-  }).flatten()
+    badgeBlk(name, from)
+  })
+  //   (badgeBlk(name,from),badgeBlk(name, from))
+  // }).flatten()
+)
+
+// Swap the two
+#for i in range(0, arr.len()) {
+  if calc.rem(i, 2) == 1 {
+    let tmp = arr.at(i - 1)
+    arr.at(i - 1) = arr.at(i)
+    arr.at(i) = tmp
+  }
+}
+
+// #set text(dir: rtl)
+#pagebreak()
+
+#grid(
+  columns: 2,
+  // gutter: 5mm,
+  column-gutter: 5mm,
+  row-gutter: 5mm,
+  ..arr.map(row => {
+    let name = row.at(2)
+    let from = {
+      row.at(3)
+      text(", ")
+      row.at(4)
+    }
+    badgeBlk(name, from)
+  })
+  //   (badgeBlk(name,from),badgeBlk(name, from))
+  // }).flatten()
 )
 
 
