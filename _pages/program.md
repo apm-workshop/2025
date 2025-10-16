@@ -7,7 +7,11 @@ published: true
 hide: false
 ---
 
-The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room ~~[FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060)~~ [FC6.142](https://sigarra.up.pt/fcup/en/instal_geral.espaco_view?pv_id=69087) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332){:target="_blank"} and lunches will be served at the restaurant [__Maria Dentada__](https://mariadentada.pt/){:target="_blank"} ([map](https://maps.app.goo.gl/8qUxXhizfYyJ67Wg9){:target="_blank"}).
+The workshop will take place at the __Department of Computer Science of the Faculty of Sciences of the University of Porto__, room ~~[FC6.106](https://sigarra.up.pt/fcup/en/INSTAL_GERAL.ESPACO_VIEW?pv_id=69060)~~ [FC6.142](https://sigarra.up.pt/fcup/en/instal_geral.espaco_view?pv_id=69087) of building [FC6](https://sigarra.up.pt/fcup/pt/instal_geral.edificio_view?pv_id=1332){:target="_blank"}.
+
+<!-- 
+and lunches will be served at the restaurant [__Maria Dentada__](https://mariadentada.pt/){:target="_blank"} ([map](https://maps.app.goo.gl/8qUxXhizfYyJ67Wg9){:target="_blank"}).
+-->
 
  <br> <br>
  
@@ -88,7 +92,8 @@ The workshop will take place at the __Department of Computer Science of the Facu
 		</tr>
 		<tr>
 			<td> <b> 12:00 - 14:00 </b> </td>
-			<td colspan="3"> <b> Lunch at Maria Dentada </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td>
+			<!--  <td colspan="3"> <b> Lunch at Maria Dentada </b> - Rua do Campo Alegre 1191, 4150-181 Porto </td> -->
+			 <td colspan="3"> <b> Lunch </b>  </td>
 		</tr>
 		<tr>
 		 <td colspan="4">  </td>
